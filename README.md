@@ -1,4 +1,4 @@
-# Тестовое задание. Image Comparison Requirements
+# Test task. Image Comparison Requirements
 
 Write a program in Java that compares any 2 images and shows the differences visually. Remember that Working Software
 is the main value, so something simple that works is generally better than a complex unfinished solution.
